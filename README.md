@@ -1,0 +1,27 @@
+# 📌 Notes App  
+
+## Description  
+A simple yet powerful **Notes App** built with **React** and **Tailwind CSS**, featuring **local storage support**, **dark mode**, and a **search function**.  
+
+## 🚀 Features  
+- 📝 **Create, Edit, and Delete Notes**  
+- 🔍 **Search Notes in Real-Time**  
+- 🌗 **Dark Mode Toggle**  
+- 💾 **Data Persistence with Local Storage**  
+- 📱 **Fully Responsive Design**  
+
+## 📸 Screenshots  
+Here are some preview images of the Notes App:  
+
+![Screenshot 1](./screenshots/screenshot1.png)  
+![Screenshot 2](./screenshots/screenshot2.png)  
+![Screenshot 3](./screenshots/screenshot3.png)  
+ 
+
+## 🛠️ Installation  
+
+### 1️⃣ Clone the repository  
+```bash
+git clone https://github.com/your-username/notes-app.git
+cd notes-app
+
