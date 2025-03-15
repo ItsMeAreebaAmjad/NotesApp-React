@@ -15,7 +15,7 @@ Here are some preview images of the Notes App:
 
 ![Screenshot 1](https://github.com/ItsMeAreebaAmjad/NotesApp-React/blob/main/image1.png)  
 ![Screenshot 2](https://github.com/ItsMeAreebaAmjad/NotesApp-React/blob/main/image2.png)  
-![Screenshot 3](./screenshots/screenshot3.png)  
+![Screenshot 3](https://github.com/ItsMeAreebaAmjad/NotesApp-React/blob/main/image3.png)  
  
 
 ## 🛠️ Installation  
