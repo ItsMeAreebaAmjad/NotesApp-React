@@ -23,6 +23,6 @@ Here are some preview images of the Notes App:
 
 ### 1️⃣ Clone the repository  
 ```bash
-git clone https://github.com/your-username/notes-app.git
+git https://github.com/ItsMeAreebaAmjad/NotesApp-React
 cd notes-app
 
